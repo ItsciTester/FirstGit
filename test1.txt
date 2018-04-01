@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 28C9-FD2E
-
- Directory of C:\Users\Dell\Desktop\MyProject
-
-04/01/2018  14:49    <DIR>          .
-04/01/2018  14:49    <DIR>          ..
-04/01/2018  14:49                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  176,248,643,584 bytes free
+ change 1
